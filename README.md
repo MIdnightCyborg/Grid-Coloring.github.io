@@ -19,4 +19,4 @@ Background Music:
 Plays soothing music in the background to enhance the gaming experience.
 These features provide a flexible and interactive environment for users to create and manipulate colorful block grids.
 
-# this is open-source, so feel free to take it as your own.
+## this is open-source, so feel free to take it as your own.
