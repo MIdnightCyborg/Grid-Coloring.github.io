@@ -4,7 +4,7 @@ Objective: The game allows users to create and manipulate a grid of colored bloc
 
 Key Components: Header (<h1>) Displays the title of the game, "Grid Coloring,"centered at the top of the page.
 
-Control Panel (#controls) Color Picker (<input type="color" id="colorPicker">): Allows users to select a color for painting blocks.
+Control Panel (controls) Color Picker (<input type="color" id="colorPicker">): Allows users to select a color for painting blocks.
 
 The chosen color is displayed in the <span> element below the picker. Buttons: Clear Grid (<button id="clearGrid">): Clears all colors from the grid, resetting it to the initial state.
 
@@ -14,7 +14,7 @@ Redo (<button id="redo">): Reapplies the most recently undone color change.
 
 Block Size (<input type="number" id="blockSize">): Allows users to set the size of each block in the grid. Ranges from 20 to 100 pixels.
 
-Grid Size (<input type="number" id="gridSize">): Adjusts the number of rows and columns in the grid. Ranges from 5x5 to 20x20 blocks. Game Area (#game) Grid (<div id="grid">): The interactive grid where users paint blocks. The grid dynamically updates based on user input for block size and grid size.
+Grid Size (<input type="number" id="gridSize">): Adjusts the number of rows and columns in the grid. Ranges from 5x5 to 20x20 blocks. Game Area (game) Grid (<div id="grid">): The interactive grid where users paint blocks. The grid dynamically updates based on user input for block size and grid size.
 
 Background Music (<audio id="backgroundMusic">) Plays a soothing background track to enhance the gaming experience. The music is set to loop continuously.
 
