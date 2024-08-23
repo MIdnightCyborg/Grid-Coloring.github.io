@@ -1,5 +1,3 @@
-# Grid Coloring:
-
 Objective: The game allows users to create and manipulate a grid of colored blocks, providing a playful and interactive building experience. Users can customize block colors, adjust the grid size, and use various controls to modify their creations.
 
 Key Components: Header (<h1>) Displays the title of the game, "Grid Coloring,"centered at the top of the page.
@@ -32,4 +30,4 @@ CSS and JavaScript Integration: CSS (styles.css): Styles the game’s appearance
 
 JavaScript (script.js): Handles the game logic: Creates and updates the grid based on user input. Manages color changes, undo/redo functionality, and adjusts the grid layout. Overall, this setup provides a responsive, interactive building game where users can experiment with colors and grid sizes while enjoying background music.
 
-# this is open-sourced, so feel free to take it as your own.
+this is open-sourced, so feel free to take it as your own.
