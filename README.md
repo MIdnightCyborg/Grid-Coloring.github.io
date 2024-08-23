@@ -13,9 +13,8 @@ Redo: Reapplies the most recent undone color change.
 Block and Grid Size Adjustments:
 
 Users can change the size of each block and the overall grid size, affecting how many blocks are visible and their dimensions.
-Background Music:
 
-Plays soothing music in the background to enhance the gaming experience.
+Background Music: Plays soothing music in the background to enhance the gaming experience.
 These features provide a flexible and interactive environment for users to create and manipulate colorful block grids.
 
 ## this is open-source, so feel free to take it as your own.
