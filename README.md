@@ -1,4 +1,4 @@
-Grid Coloring:
+# Grid Coloring:
 
 A grid of blocks where users can click to color individual blocks.
 The grid size and block size can be adjusted to create different grid dimensions and block sizes.
@@ -18,3 +18,5 @@ Background Music:
 
 Plays soothing music in the background to enhance the gaming experience.
 These features provide a flexible and interactive environment for users to create and manipulate colorful block grids.
+
+# this is open-source, so feel free to take it as your own.
