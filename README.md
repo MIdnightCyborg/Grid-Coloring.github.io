@@ -20,3 +20,7 @@ Plays soothing music in the background to enhance the gaming experience.
 These features provide a flexible and interactive environment for users to create and manipulate colorful block grids.
 
 ## this is open-source, so feel free to take it as your own.
+
+![image](https://github.com/user-attachments/assets/941f9d4f-56c4-43e9-84d5-9c93805e4cf0)
+## view an example here: https://midnightcyborg.github.io/Grid-Coloring.github.io/
+
