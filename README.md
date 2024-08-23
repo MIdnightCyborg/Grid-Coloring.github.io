@@ -2,9 +2,8 @@
 
 A grid of blocks where users can click to color individual blocks.
 The grid size and block size can be adjusted to create different grid dimensions and block sizes.
-Color Picker:
 
-Allows users to select a color from a palette to paint the blocks in the grid.
+Color Picker: Allows users to select a color from a palette to paint the blocks in the grid.
 Displays the currently selected color.
 Control Buttons:
 
